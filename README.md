@@ -34,8 +34,10 @@ I used some heat-set threaded inserts, but if you wanted to cut cost you could j
 
 ### Prerequisites
 
-Any Arduino can be used, as long as it is capable of acting as a HID (Human Interface Device). To find out if your Arduino supports it, simply google '[Arduino Name] HID keyboard'. **Note:** The case design may need modifying to fit a different or larger board.
+Any Arduino can be used, as long as it is capable of acting as a HID (Human Interface Device). To find out if your Arduino supports it, simply google '[Arduino Name] HID keyboard'.
 
+**Note:** The case design may need modifying to fit a different or larger board.
+<!--
 ### Install
 
 Ideally, write a script whose usage is described here.
@@ -51,7 +53,7 @@ GIFs are useful here to see the project in action.
 ### Troubleshooting
 
 Or FAQs, if that's more appropriate.
-
+-->
 ## Photos
 
 Some more photos of the project and the build process.
