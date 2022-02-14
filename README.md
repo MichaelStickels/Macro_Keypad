@@ -19,7 +19,7 @@ This small 4x2 macro keypad offers 8 fully customizeable keys at easy reach for 
 - LED backlight ready.
 - Open source and fully customizeable.
 
-### Components
+### Parts
 
 - Arduino Pro Micro (or knockoff) [[link](https://www.sparkfun.com/products/12640)]
 - Cherry MX Switches [[link](https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-11NW/91134)]
