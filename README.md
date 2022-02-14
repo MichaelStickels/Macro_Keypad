@@ -28,6 +28,8 @@ This small 4x2 macro keypad offers 8 fully customizeable keys at easy reach for 
 - 10kΩ Pullup Resistors
 - 1N4148 Diodes (or similar)
 
+I used some heat-set threaded inserts, but if you wanted to cut cost you could just screw directly into the plastic case or even just use some hot glue to secure the PCB.
+
 ## Getting started
 
 ### Prerequisites
