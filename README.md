@@ -4,7 +4,7 @@ Low-cost Arduino-based fully customizable 8 key macro keypad with relegendable k
 
 <div align="center">
   <kbd>
-    <img src="images/harrison-broadbent-afZVP8xbbw0-unsplash.jpg" />
+    <img src="images/Front.jpg" />
   </kbd>
 </div>
 
@@ -29,6 +29,10 @@ This small 4x2 macro keypad offers 8 fully customizeable keys at easy reach for 
 - 1N4148 Diodes (or similar)
 
 I used some heat-set threaded inserts, but if you wanted to cut cost you could just screw directly into the plastic case or even just use some hot glue to secure the PCB.
+
+### Disclaimer
+
+Most of my projects are ongoing or work-in-progress. They are not intended to be finalized production-ready products, and should not be treated as such. Feel free to use any of the materials in this project to make your own or adapt to your own project, within the guidelines of the license.
 
 ## Getting started
 
@@ -60,26 +64,26 @@ Some more photos of the project and the build process.
 
 <div align="center">
   <kbd>
-    <img src="images/frank-wang-ogxlyCA1BQc-unsplash.jpg" />
+    <img src="images/Back.jpg" />
   </kbd>
     
-  caption of what is in this photo
+  Micro USB connection on the back (from Arduino Pro Micro) and some rubber feet to prevent sliding.
 </div>
 
 <div align="center">
   <kbd>
-    <img src="images/nicolas-thomas-3GZi6OpSDcY-unsplash.jpg" />
+    <img src="images/Inside.jpg" />
   </kbd>
     
-  caption of what is in this photo
+  Arduino hot-glued into the case and short jumper cables for PCB connections. I chose to use threaded heat-set inserts for the mount, but you could just as easily screw directly into the plastic.
 </div>
 
 <div align="center">
   <kbd>
-    <img src="images/sahand-babali-owjrvbyXYyc-unsplash.jpg" />
+    <img src="images/PCB_Front.jpg" />
   </kbd>
     
-  caption of what is in this photo
+  Custom PCB layout and labels.
 </div>
 
 <!--
@@ -94,12 +98,14 @@ Usage of this tool for attacking targets without prior mutual consent is illegal
 - [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - [A sample README for all your GitHub projects](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 - [A simple README.md template to kickstart projects](https://github.com/me-and-company/readme-template)
--->
+
 ## To-do
 
 - [ ] Still need to do this
 - [ ] ~~Decided not to do this~~
 - [x] Done!
+-->
+
 
 ## License
 
